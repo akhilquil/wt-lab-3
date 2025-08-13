@@ -1,0 +1,7 @@
+let s=prompt("Enter a string")
+console.log(s.length)
+console.log(s.indexOf('a'))
+console.log(s.lastIndexOf('a'))
+document.writeln(s.length)
+document.writeln(s.indexOf('a'))
+document.writeln(s.lastIndexOf('a'))
